@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "824331704475",
+    "project_id": "homeloan-9da47",
+    "storage_bucket": "homeloan-9da47.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:824331704475:android:5034d52c05798d63598e3e",
+        "android_client_info": {
+          "package_name": "com.example.loan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQWalRTSCrHkByFCsf4xcZ9aTf6T3sqrE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
